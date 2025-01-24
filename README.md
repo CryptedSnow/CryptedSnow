@@ -5,7 +5,7 @@
 >
  
 ### Tools and programming languages  :man_technologist: <h3>
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,git,java,laravel,mongodb,mysql,php,postgresql,python,spring)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=alpinejs,bootstrap,codeigniter,git,filament,java,laravel,livewire,mongodb,mysql,php,postgresql,python,spring,tailwindcss&titles=true)
 
 ### Where find me :pushpin: <h3>
 <div>
